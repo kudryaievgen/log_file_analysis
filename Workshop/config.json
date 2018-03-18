@@ -1,0 +1,12 @@
+{
+   "in": "RulesEngine.log",
+   "version": "6.60.0.20265",
+   "out": "result.log",
+   "level": [
+     "ERROR",
+     "WARN"
+     ],
+  "from" : "2016-07-24 07:32:23",
+  "to" : "2018-07-24 07:32:58"
+
+}
